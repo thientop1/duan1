@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int chieuDai = 10;
+  int chieuRong = 5;
+
+  int chuVi = 2 * (chieuDai + chieuRong);
+  cout << "Chu vi hình chữ nhật là: " << chuVi << endl;
+  return 0;
+}
