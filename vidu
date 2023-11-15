@@ -8,6 +8,5 @@ int main() {
 
   int chuVi = 2 * (chieuDai + chieuRong);
   cout << "Chu vi hình chữ nhật là: " << chuVi << endl;
-thien
   return 0;
 }
